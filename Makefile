@@ -1,6 +1,3 @@
-# Makefile for AVSA Lab 1
-#
-# Author: Juan C. SanMiguel (juancarlos.sanmiguel@uam.es)
 CC=g++
 CFLAGS=-c -Wno-unused-variable -Wno-unused-but-set-variable -Wno-comment
 LDFLAGS=
