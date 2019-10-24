@@ -1,4 +1,4 @@
-/* Applied Video Analysis of Sequences (AVSA)
+/* Mean shift tracking CBWH
  *
  *	Sample Opencv project for lab assignment 3
  * 
@@ -6,7 +6,7 @@
  *  1) To compile this project, right click on the project name (right or left window) and "build"
  *  2) To run this project, please click on the 'green' play button
  *
- * Author: Juan C. SanMiguel (juancarlos.sanmiguel@uam.es)
+ * 
  */
 
 //system libraries C/C++
